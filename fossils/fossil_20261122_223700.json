@@ -1,0 +1,24 @@
+{
+  "seed": "5024d35fa91425a96cda90b2c3528f54ec69894d773515687aff2790b3866a49",
+  "utc": "2026-11-22T22:37:00.865720+00:00",
+  "kp_index": {
+    "time": "2026-11-22T18:00:00",
+    "kp_index": 0.67
+  },
+  "iss": {
+    "lat": -14.024901495917,
+    "lon": -178.06140077356,
+    "altitude_km": 420.15404697145,
+    "time": 1795387020
+  },
+  "earthquake_count_24h": 33,
+  "strongest_quake": {
+    "mag": 5.4,
+    "place": "9 km N of Carhuamayo, Peru",
+    "lon": -76.0169,
+    "lat": -10.8345,
+    "depth": 117.396,
+    "time": 1795383331763
+  },
+  "proof": "47e8f8019d7eae84f118165a98b261c055f0dbf8f187d1eb42961f2f492d8df3"
+}
