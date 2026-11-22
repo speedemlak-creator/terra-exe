@@ -1,0 +1,27 @@
+name: planetary-pulse
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pulse:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Let the planet compute
+        run: python3 main.py
+      - name: Commit the fossil
+        run: |
+          git config user.name "terra-bot"
+          git config user.email "actions@github.com"
+          git add fossils/
+          git diff --cached --quiet || git commit -m "fossil: gezegenin yeni ani"
+          git push
