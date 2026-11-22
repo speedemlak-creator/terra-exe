@@ -1,6 +1,15 @@
 # TERRA.EXE
 
 > You don't run this program. **The planet does.**
+>
+> 
+## The planet's first heartbeat
+
+![fossil](fossils/fossil_20261122_112910.svg)
+
+*Minted live by Earth on 2026-11-22 11:29 UTC — 34 earthquakes in 24h,
+strongest: M5.4 off Indonesia, ISS over the South Pacific, quiet Sun.
+This moment will never happen again.*
 
 TERRA.EXE is a program with no user input. Its input device is **Earth itself**:
 
