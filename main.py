@@ -2,9 +2,9 @@
 """TERRA.EXE — Sen bu programı çalıştırmazsın. Gezegen çalıştırır.
 
 Kullanım:  python3 main.py
-Çıktılar:  fossils/ klasörü (JSON kanıt + SVG portre)
+Çıktılar:  fossils/ klasörü (JSON kanıt + SVG portre + MIDI ses)
 """
-from terra import sensors, engine, fossil
+from terra import sensors, engine, fossil, music
 
 def main():
     print(">> Gezegene bağlanılıyor...")
@@ -27,8 +27,12 @@ def main():
     with open(art_path, "w") as f:
         f.write(art)
 
+    mid_path = path.replace(".json", ".mid")
+    music.write(mid_path, melody, quakes, kp["kp_index"])
+
     print(f">> Fossil kazındı: {path}")
     print(f">> Portre: {art_path}")
+    print(f">> Ses: {mid_path}")
     print(f">> Kanıt (SHA-256): {data['proof'][:32]}...")
     print(">> Bu an bir daha asla üretilemeyecek. Gezegen ilerledi.")
 
