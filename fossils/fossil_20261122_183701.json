@@ -1,0 +1,24 @@
+{
+  "seed": "ae65ab9117fc653b6e1f2095e31eca9d23b4b72ea6367bc6ad95545ea5946c1f",
+  "utc": "2026-11-22T18:37:01.878875+00:00",
+  "kp_index": {
+    "time": "2026-11-22T15:00:00",
+    "kp_index": 0.33
+  },
+  "iss": {
+    "lat": 35.709975579809,
+    "lon": 39.799397986154,
+    "altitude_km": 419.45183396856,
+    "time": 1795372621
+  },
+  "earthquake_count_24h": 29,
+  "strongest_quake": {
+    "mag": 5.4,
+    "place": "224 km NE of Bitung, Indonesia",
+    "lon": 126.3861,
+    "lat": 3.0314,
+    "depth": 43.705,
+    "time": 1795334080056
+  },
+  "proof": "a53bac77c48958536147c9fc515b09ec1b125ec0981a381e4aebff0a83f34347"
+}
