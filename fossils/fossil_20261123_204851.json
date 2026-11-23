@@ -1,0 +1,24 @@
+{
+  "seed": "650dc3a52c9d56fb7012d3d7c93ac54a7b8487820915a9715fd8084dc846ac3d",
+  "utc": "2026-11-23T20:48:51.365814+00:00",
+  "kp_index": {
+    "time": "2026-11-23T15:00:00",
+    "kp_index": 1.67
+  },
+  "iss": {
+    "lat": 49.320074670887,
+    "lon": -31.512078297907,
+    "altitude_km": 420.02339641667,
+    "time": 1795466931
+  },
+  "earthquake_count_24h": 52,
+  "strongest_quake": {
+    "mag": 6.5,
+    "place": "Vanuatu region",
+    "lon": 172.2672,
+    "lat": -13.5846,
+    "depth": 598,
+    "time": 1795401658052
+  },
+  "proof": "6432a7a08fecd1304fd25c36a2b5f8061a894baac2df2b9f7d93306c1dce162d"
+}
