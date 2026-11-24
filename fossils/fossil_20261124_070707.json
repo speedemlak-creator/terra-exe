@@ -1,0 +1,24 @@
+{
+  "seed": "fd6bb919448ea1afc23c2438c0fb9a00dce92c753265026e04de88ed2f976dc0",
+  "utc": "2026-11-24T07:07:07.119959+00:00",
+  "kp_index": {
+    "time": "2026-11-24T03:00:00",
+    "kp_index": 0.33
+  },
+  "iss": {
+    "lat": -14.41224185515,
+    "lon": 46.041418695991,
+    "altitude_km": 420.66307768678,
+    "time": 1795504026
+  },
+  "earthquake_count_24h": 52,
+  "strongest_quake": {
+    "mag": 5.5,
+    "place": "west of Macquarie Island",
+    "lon": 153.8482,
+    "lat": -60.6317,
+    "depth": 10,
+    "time": 1795420886457
+  },
+  "proof": "d6e99cf4a8f01b9b2f72eaa3da671886860e57451611bf22c6d8b719aeab2ee8"
+}
