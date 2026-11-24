@@ -1,0 +1,24 @@
+{
+  "seed": "b28be6ea3c90e533d192d4479585d68628d32e2a958760b3272eb841e8ba61dd",
+  "utc": "2026-11-24T10:00:00.948261+00:00",
+  "kp_index": {
+    "time": "2026-11-24T06:00:00",
+    "kp_index": 1.67
+  },
+  "iss": {
+    "lat": -46.828694678876,
+    "lon": -43.281188024931,
+    "altitude_km": 436.89757706779,
+    "time": 1795514400
+  },
+  "earthquake_count_24h": 46,
+  "strongest_quake": {
+    "mag": 5.3,
+    "place": "67 km WNW of Mangan, India",
+    "lon": 87.9467,
+    "lat": 27.8328,
+    "depth": 10,
+    "time": 1795483962417
+  },
+  "proof": "e516779cd35b29bd872b17beecf1b4fb655e818cb59deea8f0161559b2112f55"
+}
