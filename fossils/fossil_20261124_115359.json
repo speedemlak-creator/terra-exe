@@ -1,0 +1,24 @@
+{
+  "seed": "aeb58da35416af4ab8e41182f6dd2faf722dd9dd6b54d820de8ea02e3d444175",
+  "utc": "2026-11-24T11:53:59.845168+00:00",
+  "kp_index": {
+    "time": "2026-11-24T06:00:00",
+    "kp_index": 1.67
+  },
+  "iss": {
+    "lat": 10.785458754313,
+    "lon": -6.5650430375785,
+    "altitude_km": 414.51127011688,
+    "time": 1795521239
+  },
+  "earthquake_count_24h": 45,
+  "strongest_quake": {
+    "mag": 6.4,
+    "place": "Mauritius - Reunion region",
+    "lon": 65.6995,
+    "lat": -17.7049,
+    "depth": 10,
+    "time": 1795518374036
+  },
+  "proof": "7a463006157bd124edca4e96e39f37c86e66936174b4965504182253f8731248"
+}
