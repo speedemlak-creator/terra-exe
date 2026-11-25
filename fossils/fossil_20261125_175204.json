@@ -1,0 +1,24 @@
+{
+  "seed": "be50c7c0c512a5b58069217d83e3123ee1a1b44a31045580368fd393c28125f8",
+  "utc": "2026-11-25T17:52:04.675595+00:00",
+  "kp_index": {
+    "time": "2026-11-25T12:00:00",
+    "kp_index": 0.67
+  },
+  "iss": {
+    "lat": 27.352170550467,
+    "lon": 43.845040898592,
+    "altitude_km": 418.11477997875,
+    "time": 1795629124
+  },
+  "earthquake_count_24h": 45,
+  "strongest_quake": {
+    "mag": 5.9,
+    "place": "Balleny Islands region",
+    "lon": 170.9371,
+    "lat": -63.0918,
+    "depth": 10,
+    "time": 1795570725672
+  },
+  "proof": "b15f0f7bc3a155db9cb3d32578b5a1f18dae6acb6f7965a41241a8c9f8d3710a"
+}
