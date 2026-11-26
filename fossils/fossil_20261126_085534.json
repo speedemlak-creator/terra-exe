@@ -1,0 +1,24 @@
+{
+  "seed": "ed7c44973bc2b4ed9d61484f09a36958824f55b701550bd38b4f80e6fd20b7e3",
+  "utc": "2026-11-26T08:55:34.303347+00:00",
+  "kp_index": {
+    "time": "2026-11-26T03:00:00",
+    "kp_index": 2.0
+  },
+  "iss": {
+    "lat": 34.827984669403,
+    "lon": 51.489992009983,
+    "altitude_km": 415.5494044339,
+    "time": 1795683334
+  },
+  "earthquake_count_24h": 39,
+  "strongest_quake": {
+    "mag": 5.2,
+    "place": "183 km N of Hicks Bay, New Zealand",
+    "lon": 178.6429,
+    "lat": -35.9665,
+    "depth": 12.687,
+    "time": 1795657724213
+  },
+  "proof": "754964b35ca1e80c634fed14830e5cd3a3baebe95d3249a6f33bf6b7d46c2e1e"
+}
