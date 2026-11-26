@@ -1,0 +1,24 @@
+{
+  "seed": "20301d010a85137364167f6288816ce5e987d6b977f7720424e6554dac52af8e",
+  "utc": "2026-11-26T23:47:46.863805+00:00",
+  "kp_index": {
+    "time": "2026-11-26T18:00:00",
+    "kp_index": 0.67
+  },
+  "iss": {
+    "lat": -51.539579003659,
+    "lon": 53.928928459885,
+    "altitude_km": 440.46648796325,
+    "time": 1795736866
+  },
+  "earthquake_count_24h": 40,
+  "strongest_quake": {
+    "mag": 5.7,
+    "place": "Revilla Gigedo Islands region",
+    "lon": -109.2958,
+    "lat": 19.8135,
+    "depth": 10,
+    "time": 1795706804294
+  },
+  "proof": "85b3bbe129edadb23b53ad205818cdde425d73a54cb21ca1c67949e2fe2d89d0"
+}
