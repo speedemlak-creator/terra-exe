@@ -1,0 +1,24 @@
+{
+  "seed": "384f6d5f1d03336382a6869a0121038fa0c3c9227ac760ad2ba45894163cc642",
+  "utc": "2026-11-26T04:58:02.347254+00:00",
+  "kp_index": {
+    "time": "2026-11-26T00:00:00",
+    "kp_index": 0.33
+  },
+  "iss": {
+    "lat": -20.175469368558,
+    "lon": -84.546579236559,
+    "altitude_km": 427.18743578133,
+    "time": 1795669082
+  },
+  "earthquake_count_24h": 39,
+  "strongest_quake": {
+    "mag": 5.3,
+    "place": "83 km ESE of Hengchun, Taiwan",
+    "lon": 121.5241,
+    "lat": 21.8162,
+    "depth": 10,
+    "time": 1795596436394
+  },
+  "proof": "a03efb0c55a6c9045e39d93a0cc5eed5033a0bee75ba683d73bad2ceffe28d37"
+}
