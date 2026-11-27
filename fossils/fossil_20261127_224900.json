@@ -1,0 +1,24 @@
+{
+  "seed": "7c877d5cf1ba40fe7d9f9f14a0ff37a794ee7297904ad5097d93b20fea0cf86f",
+  "utc": "2026-11-27T22:49:00.830980+00:00",
+  "kp_index": {
+    "time": "2026-11-27T18:00:00",
+    "kp_index": 1.0
+  },
+  "iss": {
+    "lat": -30.430224439989,
+    "lon": 8.0890977792963,
+    "altitude_km": 431.04468788802,
+    "time": 1795819740
+  },
+  "earthquake_count_24h": 24,
+  "strongest_quake": {
+    "mag": 5.1,
+    "place": "107 km SSE of Auki, Solomon Islands",
+    "lon": 161.2358,
+    "lat": -9.5793,
+    "depth": 74.064,
+    "time": 1795738020857
+  },
+  "proof": "b3dca92efd7db7fb3117cc1510af4e5863f6a09e52f9977a687f46c8441628d3"
+}
