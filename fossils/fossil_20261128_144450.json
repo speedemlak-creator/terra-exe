@@ -1,0 +1,24 @@
+{
+  "seed": "a7c4c8f20e7ffee78f0daea4b5eb2217a15fde6496c889a126d1a9d6b7f2b2bb",
+  "utc": "2026-11-28T14:44:50.041341+00:00",
+  "kp_index": {
+    "time": "2026-11-28T09:00:00",
+    "kp_index": 3.33
+  },
+  "iss": {
+    "lat": -26.806262635192,
+    "lon": -105.792192346,
+    "altitude_km": 427.24129594066,
+    "time": 1795877089
+  },
+  "earthquake_count_24h": 42,
+  "strongest_quake": {
+    "mag": 6.7,
+    "place": "62 km NNW of Yelizovo, Russia",
+    "lon": 158.0792,
+    "lat": 53.7187,
+    "depth": 188.422,
+    "time": 1795871706781
+  },
+  "proof": "61d8b53b7eb3b001d2eb7b9eadcfcc0746e7d501667ae512b2a27d643d551d0e"
+}
