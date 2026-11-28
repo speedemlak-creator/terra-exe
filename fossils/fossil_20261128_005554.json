@@ -1,0 +1,24 @@
+{
+  "seed": "76989e691ee50bdd8d3708c440cc797a5bed1a491c7d6eb2d693a072c64ab5fe",
+  "utc": "2026-11-28T00:55:54.247831+00:00",
+  "kp_index": {
+    "time": "2026-11-27T21:00:00",
+    "kp_index": 2.33
+  },
+  "iss": {
+    "lat": -6.5597140873782,
+    "lon": 123.10055766477,
+    "altitude_km": 418.86485342902,
+    "time": 1795827354
+  },
+  "earthquake_count_24h": 29,
+  "strongest_quake": {
+    "mag": 5,
+    "place": "Off the coast of Aisen, Chile",
+    "lon": -79.7614,
+    "lat": -44.568,
+    "depth": 10,
+    "time": 1795754676196
+  },
+  "proof": "3544caa8b041ba1f63b2a60c2bf6699cc592e99e86313fa8b7c06ab978d2b5a6"
+}
