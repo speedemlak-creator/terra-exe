@@ -1,0 +1,24 @@
+{
+  "seed": "0041b6f176e145e15cbed933c9130cdfe540e471601c3e78dcba21eda4cd78b9",
+  "utc": "2026-11-28T02:14:11.647221+00:00",
+  "kp_index": {
+    "time": "2026-11-27T21:00:00",
+    "kp_index": 2.33
+  },
+  "iss": {
+    "lat": -45.335583424162,
+    "lon": 55.596995232778,
+    "altitude_km": 436.66952082401,
+    "time": 1795832051
+  },
+  "earthquake_count_24h": 32,
+  "strongest_quake": {
+    "mag": 5.1,
+    "place": "73 km NNW of Phôngsali, Laos",
+    "lon": 101.7463,
+    "lat": 22.2546,
+    "depth": 10,
+    "time": 1795828662722
+  },
+  "proof": "ff0ebbf7ec40def7e0d300332a09e2c26042ffe492f6a29d9ff4d89db2f6ba1f"
+}
