@@ -1,0 +1,24 @@
+{
+  "seed": "c24812b774d732d03436bd2088a8ca6c5a54721e788bcb02af609fbca3af0f01",
+  "utc": "2026-11-28T11:42:43.984877+00:00",
+  "kp_index": {
+    "time": "2026-11-28T06:00:00",
+    "kp_index": 3.33
+  },
+  "iss": {
+    "lat": -16.317501968113,
+    "lon": -49.400755216157,
+    "altitude_km": 422.49089449346,
+    "time": 1795866163
+  },
+  "earthquake_count_24h": 46,
+  "strongest_quake": {
+    "mag": 5.2,
+    "place": "93 km W of San Antonio de los Cobres, Argentina",
+    "lon": -67.2363,
+    "lat": -24.299,
+    "depth": 174.617,
+    "time": 1795832705520
+  },
+  "proof": "416c9cf88015f6571954d0080cce92d29b01126083915215e65ca4200ebd13c6"
+}
